@@ -8,11 +8,11 @@ const HOSTED_URLS = {
 
 const examples = {
   'example1':
-      'i have all the philosophers in my library gilded on the edges',
+      'i have all the philosophers in my library gilded on the edges.',
   'example2':
-      'this is obvious in the structure of the teeth and talons of the tiger',
+      'this is obvious in the structure of the teeth and talons of the tiger.',
   'example3':
-      'the redskins disappear as they have come like shadows, and soon their place is taken by the beasts'      
+      'the redskins disappear as they have come like shadows, and soon their place is taken by the beasts.'      
 };
 
 function status(statusText) {
