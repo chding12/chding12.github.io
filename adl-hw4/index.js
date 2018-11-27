@@ -8,11 +8,11 @@ const HOSTED_URLS = {
 
 const examples = {
   'example1':
-      'Alice was beginning to get very tired of sitting by her sister on the bank.',
+      'i have all the philosophers in my library gilded on the edges',
   'example2':
-      'Buda-Pesth seems a wonderful place.',
+      'this is obvious in the structure of the teeth and talons of the tiger',
   'example3':
-      'Scepticism was as much the result of knowledge, as knowledge is of scepticism.'      
+      'the redskins disappear as they have come like shadows, and soon their place is taken by the beasts'      
 };
 
 function status(statusText) {
