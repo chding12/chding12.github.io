@@ -8,7 +8,7 @@ const HOSTED_URLS = {
 
 const examples = {
   'example1':
-      'the portraits of these seven reverend personages decorated this apartment;',
+      'the portraits of these seven reverend personages decorated this apartment.',
   'example2':
       'this is obvious in the structure of the teeth and talons of the tiger.',
   'example3':
