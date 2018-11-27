@@ -8,11 +8,11 @@ const HOSTED_URLS = {
 
 const examples = {
   'example1':
-      'the portraits of these seven reverend personages decorated this apartment.',
+      'Everything about it had a grand air,--the apartments of the Bishop, the drawing-rooms.',
   'example2':
-      'this is obvious in the structure of the teeth and talons of the tiger.',
+      'This is obvious in the structure of the teeth and talons of the tiger.',
   'example3':
-      'the redskins disappear as they have come like shadows, and soon their place is taken by the beasts.'      
+      'The redskins disappear as they have come like shadows, and soon their place is taken by the beasts.'      
 };
 
 function status(statusText) {
