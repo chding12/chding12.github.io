@@ -8,9 +8,9 @@ const HOSTED_URLS = {
 
 const examples = {
   'example1':
-      'Everything about it had a grand air,--the apartments of the Bishop, the drawing-rooms.',
+      'The episcopal palace was a huge and beautiful house, built of stone at the beginning of the last century by M. Henri Puget.',
   'example2':
-      'This is obvious in the structure of the teeth and talons of the tiger.',
+      'Habit also has a decided influence, as in the period of flowering with plants when transported from one climate to another.',
   'example3':
       'The redskins disappear as they have come like shadows, and soon their place is taken by the beasts.'      
 };
